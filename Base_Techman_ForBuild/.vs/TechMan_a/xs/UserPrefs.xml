@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0801C5C0-F419-C1A7-BF74-3DC8F046F673}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerBullet01.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DrawingCanvas.cs" />
+      <File FileName="Assets/Scripts/DrawPixelCounter.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Scripts/Draw.cs" />
+      <File FileName="Assets/Scripts/PlayerBullet01.cs" Line="52" Column="5" />
+      <File FileName="Assets/Scripts/PlayerBullet02.cs" />
+      <File FileName="Assets/Scripts/PlayerGun.cs" />
+      <File FileName="Assets/Scripts/PlayerBullet03.cs" />
+      <File FileName="Assets/Models/Stylized Astronaut/Character/Player.cs" />
+      <File FileName="Assets/Scripts/DrawPixelCounterGeneral.cs" />
+      <File FileName="Assets/Images/Normal.shader" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/EnemyMove.cs" Line="44" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8b5aa9c-9f9d-49f1-87bf-95bb0982aa8e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
